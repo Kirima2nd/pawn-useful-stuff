@@ -1,0 +1,9 @@
+site: ""
+user: Kirima2nd
+repo: pawn-useful-stuff
+entry: gamemodes/test.pwn
+output: gamemodes/test.amx
+dependencies:
+- sampctl/samp-stdlib
+- pawn-lang/YSI-Includes
+local: true
